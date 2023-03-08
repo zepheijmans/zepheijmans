@@ -1,15 +1,18 @@
-# 👋 Hey there, I'm Zep!
-### About Me:
-I'm a Web Developer which is passionate about delivering quality code and well-designed, user-friendly applications. I'm currently pursuing my degree, but I've already gained a lot of experience on my own. I have become proficient in a variety of programming languages and have worked with numerous frameworks.
+Welcome to my profile! I'm a student Software Developer at Bit Academy, Web Developer at Profolux. Connect with me on LinkedIn!
 
-- 🔭 Working as a Web Developer at Profolux.
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/ZepHeijmans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zep-heijmans-11a080201/)](https://www.linkedin.com/in/zep-heijmans-11a080201/)
+[![Website Badge](https://img.shields.io/badge/zepheijmans-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://zepheijmans.nl/)](https://zepheijmans.nl/)
+[![Gmail Badge](https://img.shields.io/badge/heijmanszep@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heijmanszep@gmail.com)](mailto:heijmanszep@gmail.com)
+## ⚡ About me
+- 🧐 Interested in full stack.
 - 🎓 Currently pursuing a degree in Software Development.
-- 🌱 I'm always eager to learn and grow as a developer.
-- 👯 Always seeking opportunities to contribute to exciting projects!
-- 💬 Ask me about... anything!
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/zep-heijmans-11a080201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:heijmanszep@gmail.com" target="_blank"><img src="https://shields.io/badge/e--mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="E-mail"></a>
+- 🌱 Currently learning NestJS.
+- 💻 With 1 year Software Developer education and 2 years' development working experience.
 
-### My Tech Stack
+### Things I code with
 
 <div>
   <img src="https://shields.io/badge/react-00B5E2?logo=react&logoColor=white&style=for-the-badge" alt="React">
@@ -19,4 +22,12 @@ I'm a Web Developer which is passionate about delivering quality code and well-d
   <img src="https://shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
   <img src="https://shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
   <img src="https://shields.io/badge/Sass-ff69b4?logo=sass&logoColor=white&style=for-the-badge" alt="Sass">
+  <img src="https://shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=white&style=for-the-badge" alt="Firefox">
+  <img src="https://shields.io/badge/Firefox_Developer_Edition-FFA600?logo=firefox-browser&logoColor=white&style=for-the-badge" alt="Firefox Developer Edition">
+  <img src="https://shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" alt="Brave Browser"> 
+  <img src="https://shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code">
+  <img src="https://shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white&style=for-the-badge" alt="Insomnia">
+  <img src="https://shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+  <img src="https://shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="npm">
+  <img src="https://shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
 </div>
