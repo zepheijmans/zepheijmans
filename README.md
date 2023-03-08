@@ -24,7 +24,7 @@ Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web
   <img src="https://shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
   <img src="https://shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
   <img src="https://shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
-  <img src="https://shields.io/badge/PostgreSQL-darkblue?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"> 
   <img src="https://shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" alt="jQuery">
   <img src="https://shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
   <img src="https://shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="Sass">
