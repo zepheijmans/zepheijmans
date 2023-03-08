@@ -1,4 +1,4 @@
-Welcome to my profile! I'm a student Software Developer at Bit Academy, Web Developer at Profolux. Connect with me on LinkedIn!
+Welcome to my profile! I'm a student Software Developer at Bit Academy, Web Developer at Profolux. Connect with me on [![LinkedIn](LinkedIn)](https://www.linkedin.com/in/zep-heijmans-11a080201/)!
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
