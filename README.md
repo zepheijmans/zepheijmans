@@ -16,12 +16,21 @@ Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web
 
 <div>
   <img src="https://shields.io/badge/react-00B5E2?logo=react&logoColor=white&style=for-the-badge" alt="React">
-  <img src="https://shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+  <img src="https://shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js">
+  <img src="https://shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
   <img src="https://shields.io/badge/NestJS-red?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS">
+  <img src="https://shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  <img src="https://shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel">
+  <img src="https://shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+  <img src="https://shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+  <img src="https://shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
   <img src="https://shields.io/badge/PostgreSQL-darkblue?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
-  <img src="https://shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-  <img src="https://shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
-  <img src="https://shields.io/badge/Sass-ff69b4?logo=sass&logoColor=white&style=for-the-badge" alt="Sass">
+  <img src="https://shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" alt="jQuery">
+  <img src="https://shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
+  <img src="https://shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="Sass">
+  <img src="https://shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap">
+  <img src="https://shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS">
+  
   <img src="https://shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=white&style=for-the-badge" alt="Firefox">
   <img src="https://shields.io/badge/Firefox_Developer_Edition-FFA600?logo=firefox-browser&logoColor=white&style=for-the-badge" alt="Firefox Developer Edition">
   <img src="https://shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" alt="Brave Browser"> 
