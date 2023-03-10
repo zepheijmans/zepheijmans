@@ -18,7 +18,7 @@ Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web
   <img src="https://shields.io/badge/react-00B5E2?logo=react&logoColor=white&style=for-the-badge" alt="React">
   <img src="https://shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js">
   <img src="https://shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
-  <img src="https://shields.io/badge/NestJS-red?logo=nestjs&logoColor=white&style=for-the-badge" alt="Nest.js">
+  <img src="https://shields.io/badge/NestJS-red?logo=nest.js&logoColor=white&style=for-the-badge" alt="Nest.js">
   <img src="https://shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
   <img src="https://shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap">
   <img src="https://shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS">
