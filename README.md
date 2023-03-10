@@ -10,7 +10,7 @@ Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web
 - 🧐 Interested in full stack.
 - 🎓 Currently pursuing a degree in Software Development.
 - 🌱 Currently learning NestJS.
-- 💻 With 1 year Software Developer education and 2 years' development working experience. And 5 years' of self-taught experience.
+- 💻 With 1 year Software Developer education and 2 years development working experience. And 5 years of self-taught experience.
 
 ### Things I code with
 
