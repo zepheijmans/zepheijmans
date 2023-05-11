@@ -20,21 +20,15 @@
 
 Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web Developer at Profolux. Connect with me on [LinkedIn](https://www.linkedin.com/in/zep-heijmans-11a080201/)!
 
-<img align='right' src='https://64.media.tumblr.com/tumblr_lkuawqNwOp1qhfyv3o1_400.gif' width='200"'>
-
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/ZepHeijmans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zep-heijmans-11a080201/)](https://www.linkedin.com/in/zep-heijmans-11a080201/)
-[![Website Badge](https://img.shields.io/badge/zepheijmans-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://zepheijmans.nl/)](https://zepheijmans.nl/)
-[![Gmail Badge](https://img.shields.io/badge/heijmanszep@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heijmanszep@gmail.com)](mailto:heijmanszep@gmail.com)
--->
-
 ## ⚡ About me
+
+<img align='right' src='https://64.media.tumblr.com/tumblr_lkuawqNwOp1qhfyv3o1_400.gif' width='250' height='190'>
+
 - 🧐 Interested in full stack.
 - 🎓 Currently pursuing a degree in Software Development.
 - 🌱 Currently learning NestJS.
 - 💻 With 1 year Software Developer education and 2 years development working experience. And 5 years of self-taught experience.
-
-&nbsp;
+    
 &nbsp;
 
 <div align="center">
