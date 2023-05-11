@@ -35,6 +35,7 @@ Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web
 - 💻 With 1 year Software Developer education and 2 years development working experience. And 5 years of self-taught experience.
 
 &nbsp;
+&nbsp;
 
 <div align="center">
   <h2>Languages I know</h2>
