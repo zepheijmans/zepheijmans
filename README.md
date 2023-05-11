@@ -2,17 +2,17 @@ Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web
 
 <img align='right' src='https://64.media.tumblr.com/tumblr_lkuawqNwOp1qhfyv3o1_400.gif' width='200"'>
 
-
 [![Linkedin Badge](https://img.shields.io/badge/ZepHeijmans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zep-heijmans-11a080201/)](https://www.linkedin.com/in/zep-heijmans-11a080201/)
 [![Website Badge](https://img.shields.io/badge/zepheijmans-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://zepheijmans.nl/)](https://zepheijmans.nl/)
 [![Gmail Badge](https://img.shields.io/badge/heijmanszep@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heijmanszep@gmail.com)](mailto:heijmanszep@gmail.com)
+
 ## ⚡ About me
 - 🧐 Interested in full stack.
 - 🎓 Currently pursuing a degree in Software Development.
 - 🌱 Currently learning NestJS.
 - 💻 With 1 year Software Developer education and 2 years development working experience. And 5 years of self-taught experience.
 
-### Things I code with
+### Have worked in
 
 <div>
   <img src="https://shields.io/badge/react-00B5E2?logo=react&logoColor=white&style=for-the-badge" alt="React">
@@ -35,7 +35,13 @@ Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web
   <img src="https://shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS">
   <img src="https://shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
   <img src="https://shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="Sass">
+</div>
+
+### Things I code with
   
+<div>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows">
   <img src="https://shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=white&style=for-the-badge" alt="Firefox">
   <img src="https://shields.io/badge/Firefox_Developer_Edition-00B8F6?logo=firefox-browser&logoColor=white&style=for-the-badge" alt="Firefox Developer Edition">
   <img src="https://shields.io/badge/Brave-FB542B?logo=brave&logoColor=white&style=for-the-badge" alt="Brave Browser"> 
