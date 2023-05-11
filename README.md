@@ -15,21 +15,27 @@ Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web
 <div align="center">
   <h2 style="border-bottom: none;">Languages I know</h2>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,php,py,html,css,bash,cs,java,lua,mysql,postgresql,mongodb,scss&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,php,py,html,scss,css,bash,cs,java,lua&theme=dark&perline=6" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark&perline=3" />
   </a>
 </div>
 
 <div align="center">
   <h2 style="border-bottom: none;">Frameworks I worked with</h2>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,laravel,jquery,tailwind,bootstrap&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,laravel,jquery,tailwind,bootstrap&theme=dark&perline=7" />
   </a>
 </div>
 
 <div align="center">
   <h2 style="border-bottom: none;">Tools I use</h2>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,gitlab,nginx,tauri&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,gitlab,nginx,tauri&theme=dark&perline=7" />
   </a>
 </div>
 
