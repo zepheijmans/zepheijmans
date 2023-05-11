@@ -7,15 +7,26 @@
     </a>
 </div>
 
+<div align="center">
+    <a style="text-decoration: none;" href="https://www.linkedin.com/in/zep-heijmans-11a080201/">
+        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=LinkedIn&message=zepheijmans&logo=linkedin&style=for-the-badge&logoColor=white&labelColor=181825&color=b4befe" />
+    </a>
+    <a style="text-decoration: none;" href="mailto:heijmanszep@gmail.com">
+        <img style="border-radius:10px" src="https://img.shields.io/static/v1?label=Email&message=heijmanszep@gmail.com&logo=email&style=for-the-badge&logoColor=white&labelColor=181825&color=f38ba8">
+    </a>
+</div>
+
 &nbsp;
 
 Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web Developer at Profolux. Connect with me on [LinkedIn](https://www.linkedin.com/in/zep-heijmans-11a080201/)!
 
 <img align='right' src='https://64.media.tumblr.com/tumblr_lkuawqNwOp1qhfyv3o1_400.gif' width='200"'>
 
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/ZepHeijmans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zep-heijmans-11a080201/)](https://www.linkedin.com/in/zep-heijmans-11a080201/)
 [![Website Badge](https://img.shields.io/badge/zepheijmans-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://zepheijmans.nl/)](https://zepheijmans.nl/)
 [![Gmail Badge](https://img.shields.io/badge/heijmanszep@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heijmanszep@gmail.com)](mailto:heijmanszep@gmail.com)
+-->
 
 ## ⚡ About me
 - 🧐 Interested in full stack.
