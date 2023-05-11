@@ -1,3 +1,13 @@
+<h1 align="center">Hi there, I'm Zep!  </h1>
+
+<div align="center">
+    <a href="https://twitter.com/ZepHeijmans" target="_blank"><img height="30" src="https://github.com/zepheijmans/zepheijmans/blob/main/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/zep-heijmans-11a080201" target="_blank"><img height="30" src="https://github.com/zepheijmans/zepheijmans/blob/main/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://open.spotify.com/user/zz0wb7dhj9fomkvlima4wn9it?si=c7167d22d8494d15" target="_blank"><img height="30" src="https://github.com/zepheijmans/zepheijmans/blob/main/spotify.png"></a>
+</div>
+
+&nbsp;
+
 <div align="center">
     <a style="text-decoration: none;" href="https://github.com/zepheijmans">
         <img style="border-radius:10px" src="https://img.shields.io/github/followers/zepheijmans?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
@@ -18,16 +28,15 @@
 
 &nbsp;
 
-Welcome to my profile! I'm a student Software Developer at Bit Academy and a Web Developer at Profolux. Connect with me on [LinkedIn](https://www.linkedin.com/in/zep-heijmans-11a080201/)!
+Welcome to my profile! I'm a student Software Developer at [Bit Academy](https://www.bit-academy.nl/), a Full Stack Web Developer at [Profolux](https://www.profolux.com). Connect with me on [LinkedIn](https://www.linkedin.com/in/zep-heijmans-11a080201/)!
 
 ## ⚡ About me
 
 <img align='right' src='https://64.media.tumblr.com/tumblr_lkuawqNwOp1qhfyv3o1_400.gif' width='250' height='190'>
 
-- 🧐 Interested in full stack.
-- 🎓 Currently pursuing a degree in Software Development.
-- 🌱 Currently learning NestJS.
-- 💻 With 1 year Software Developer education and 2 years development working experience. And 5 years of self-taught experience.
+#### • 🎓 Currently pursuing a degree in Software Development.
+#### • 🌱 Currently learning Nest.js.
+#### • 💻 1 year Software Developer education and 2 years development working experience. And 5 years of self-taught experience.
     
 &nbsp;
 
