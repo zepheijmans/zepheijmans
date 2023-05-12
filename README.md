@@ -54,7 +54,7 @@ Welcome to my profile! I'm a student Software Developer at [Bit Academy](https:/
 </div>
 
 <div align="center">
-  <h2>Frameworks I worked with</h2>
+  <h2>Frameworks I work with</h2>
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,laravel,jquery,tailwind,bootstrap&theme=dark&perline=7" />
   </a>
