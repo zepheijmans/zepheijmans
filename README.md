@@ -31,6 +31,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFF)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=FFF)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFF)]()
+[![Prisma](https://img.shields.io/badge/Prisma-00C4B4?style=for-the-badge&logo=prisma&logoColor=FFF)]()
 
 </br>
 
